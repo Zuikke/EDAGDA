@@ -1,7 +1,7 @@
 # EDAGDA
-# torch==1.12.1+cu116
-# torch-geometric==2.6.1
-numpy==1.25.0
+- torch==1.12.1+cu116
+- torch-geometric==2.6.1
+- numpy==1.25.0
 networkx==3.2.1
 scipy==1.11.1
 pandas==2.3.1
