@@ -2,11 +2,11 @@
 - torch==1.12.1+cu116
 - torch-geometric==2.6.1
 - numpy==1.25.0
-networkx==3.2.1
-scipy==1.11.1
-pandas==2.3.1
-torch-sparse==0.6.16+pt112cu116
-torch-scatter==2.1.0+pt112cu116
-torch-cluster==1.6.0+pt112cu116
-torch-spline-conv==1.2.1+pt112cu116
-scikit-learn==1.6.1
+- networkx==3.2.1
+- scipy==1.11.1
+- pandas==2.3.1
+- torch-sparse==0.6.16+pt112cu116
+- torch-scatter==2.1.0+pt112cu116
+- torch-cluster==1.6.0+pt112cu116
+- torch-spline-conv==1.2.1+pt112cu116
+- scikit-learn==1.6.1
